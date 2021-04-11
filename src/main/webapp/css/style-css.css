@@ -1,0 +1,115 @@
+body {
+    background-color: #A4AABE;
+}
+
+#main-container {
+    background-color: rgba(255, 255, 255, 0.109);
+    padding: 20px;
+    margin: 50px auto;
+    width: 750px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
+}
+
+.div-tasks {
+    align-items: center;
+}
+
+.col-3, .col-9 {
+    text-align: center;
+    background-color: white;
+}
+
+#new-task {
+    background-color: white;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    left: 0;
+}
+
+#insert-button {
+    color: black;
+    font-size: 15pt;
+    text-decoration: none;
+    background-color: white;
+    box-shadow: 0 0 0 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#list {
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+li {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+#list-group {
+    margin-bottom: 20px;
+}
+
+.list-group-item {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.btn-light {
+    color: black;
+    font-size: 15pt;
+    box-shadow: 0 0 0 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-group {
+    margin: auto;
+}
+
+#copy-right {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin: auto;
+}
+
+#copi-bottom {
+    text-align: center
+}
+
+h5 {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    margin: auto auto 20px auto;
+}
+
+#circles-color0 {
+    background-color: #A993BF;
+}
+
+#circles-color1 {
+    background-color: #6A36D9;
+}
+
+#circles-color2 {
+    background-color: #762EA6;
+}
+
+#circles-color3 {
+    background-color: #5B2A8C;
+}
+
+#circles-color4 {
+    background-color: #A4AABE;
+}
+
+.change-colors {
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px black;
+}
